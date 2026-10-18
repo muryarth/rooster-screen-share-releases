@@ -1,0 +1,20 @@
+Copyright (c) 2026 Arthur Azevedo Mury. Todos os direitos reservados.
+
+Este software, incluindo seu código-fonte, arquivos executáveis, ícones, sons e demais
+materiais que o acompanham ("Software"), é propriedade exclusiva de Arthur Azevedo Mury.
+
+É permitido baixar, instalar e usar as versões executáveis distribuídas oficialmente pelo
+autor, para uso pessoal e não comercial.
+
+Sem autorização prévia e por escrito do autor, é proibido:
+  - copiar, modificar, adaptar, traduzir ou criar obras derivadas do Software;
+  - redistribuir, sublicenciar, vender, alugar ou publicar o Software, no todo ou em parte;
+  - fazer engenharia reversa, descompilar ou desmontar o Software, exceto quando a lei
+    aplicável permitir expressamente.
+
+O SOFTWARE É FORNECIDO "NO ESTADO EM QUE SE ENCONTRA", SEM GARANTIAS DE QUALQUER TIPO,
+EXPRESSAS OU IMPLÍCITAS. EM NENHUMA HIPÓTESE O AUTOR SERÁ RESPONSÁVEL POR QUAISQUER DANOS
+DECORRENTES DO USO OU DA IMPOSSIBILIDADE DE USO DO SOFTWARE.
+
+Componentes de terceiros incluídos no Software (como Electron, PeerJS e electron-updater)
+continuam sujeitos às suas próprias licenças.
