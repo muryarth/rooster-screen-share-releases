@@ -13,10 +13,6 @@
   <a href="https://github.com/muryarth/rooster-screen-share-releases/releases/latest"><b>⬇️ Baixar para Windows</b></a>
 </p>
 
-<p align="center">
-  <img src="docs/room.png" width="820" alt="Sala do Rooster: anfitrião transmitindo, com o menu de opções de um participante aberto" />
-</p>
-
 ## Por que o Rooster?
 
 - 🖥️ **Tela ou janela, em alta qualidade.** Até 1080p a 60 fps.
