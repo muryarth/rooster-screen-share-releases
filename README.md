@@ -13,6 +13,10 @@
   <a href="https://github.com/muryarth/rooster-screen-share-releases/releases/latest"><b>⬇️ Baixar para Windows</b></a>
 </p>
 
+<p align="center">
+  <img src="docs/apresentacao.png" width="720" alt="Rooster: sala com vários participantes transmitindo" />
+</p>
+
 ## Por que o Rooster?
 
 - 🖥️ **Tela ou janela, em alta qualidade.** Até 1080p a 60 fps.
@@ -43,6 +47,23 @@ Cada sala comporta até **5 pessoas** (o anfitrião pode ajustar de 2 a 10).
 - O botão **⋯** ao lado de cada participante abre as opções: assistir, fixar, ocultar e, para o anfitrião, **remover da sala**.
 - Em cada transmissão você vê quantas pessoas estão assistindo e um aviso quando quem transmite desligou o som.
 - Quem está em outra rede (ou no 4G) consegue entrar mesmo assim: quem tiver as portas liberadas serve de ponte para os demais.
+
+## Conheça o app
+
+<p align="center">
+  <img src="docs/screenshot-inicio.png" width="640" alt="Tela inicial: criar sala com senha ou entrar com um código" /><br />
+  <sub>Tela inicial: crie uma sala (com senha, se quiser) ou entre com um código.</sub>
+</p>
+
+<p align="center">
+  <img src="docs/screenshot-senha.png" width="640" alt="Pedido de senha ao entrar em uma sala protegida" /><br />
+  <sub>Salas protegidas pedem a senha antes de deixar você entrar.</sub>
+</p>
+
+<p align="center">
+  <img src="docs/screenshot-assistindo.png" width="640" alt="Assistindo à transmissão de um amigo" /><br />
+  <sub>Assistindo à tela de um amigo, com a lista de participantes ao lado.</sub>
+</p>
 
 ## Download
 
