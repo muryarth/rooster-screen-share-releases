@@ -64,7 +64,7 @@ Na [página da última versão](https://github.com/muryarth/rooster-share-releas
 
 **Está gostando do RoosterShare?**
 
-O app é gratuito e feito com carinho. Se quiser ajudar a mantê-lo, faça uma doação via Pix pelo QR Code ao lado. Ele também aparece dentro do app. Obrigado! 🐔💛
+O app é gratuito e feito com cuidado. Se quiser ajudar a mantê-lo, faça uma doação via Pix pelo QR Code ao lado. Ele também aparece dentro do app. Obrigado! 🐔💛
 
 <br clear="left" />
 
