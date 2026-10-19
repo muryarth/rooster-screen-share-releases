@@ -42,11 +42,7 @@
 Cada sala comporta até **5 pessoas** (o anfitrião pode ajustar de 2 a 10).
 
 <br clear="right" />
-
-<p align="center">
-  <img src="docs/password.png" width="400" alt="Pedido de senha ao entrar numa sala protegida" />
-  <img src="docs/room-guest.png" width="400" alt="Sala vista por um convidado, com as opções da transmissão" />
-</p>
+<br />
 
 - O botão **⋯** ao lado de cada participante abre as opções: assistir, fixar, ocultar e, para o anfitrião, **remover da sala**.
 - Em cada transmissão você vê quantas pessoas estão assistindo e um aviso quando quem transmite desligou o som.
