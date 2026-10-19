@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="docs/icon.png" width="112" alt="RoosterShare" />
+  <img src="docs/icon.png" width="112" alt="Rooster" />
 </p>
 
-<h1 align="center">RoosterShare</h1>
+<h1 align="center">Rooster</h1>
 
 <p align="center">
   <b>Transmita sua tela direto para seus amigos.</b><br />
@@ -10,14 +10,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/muryarth/rooster-share-releases/releases/latest"><b>⬇️ Baixar para Windows</b></a>
+  <a href="https://github.com/muryarth/rooster-screen-share-releases/releases/latest"><b>⬇️ Baixar para Windows</b></a>
 </p>
 
 <p align="center">
-  <img src="docs/room.png" width="820" alt="Sala do RoosterShare com cinco participantes" />
+  <img src="docs/room.png" width="820" alt="Sala do Rooster com cinco participantes" />
 </p>
 
-## Por que o RoosterShare?
+## Por que o Rooster?
 
 - 🖥️ **Tela ou janela, em alta qualidade.** Até 1080p a 60 fps.
 - 🔊 **Com o som do PC, sem eco.** O app transmite o som dos jogos, vídeos e músicas, mas deixa de fora o Discord. Seus amigos não ouvem a própria voz de volta.
@@ -30,7 +30,7 @@
 
 <img src="docs/home.png" width="520" align="right" alt="Tela inicial" />
 
-1. **Baixe e instale** o RoosterShare.
+1. **Baixe e instale** o Rooster.
 2. **Escolha seu nome** e, se quiser, uma foto.
 3. **Crie uma sala** e mande o código para seus amigos, ou **entre** com o código de alguém.
 4. Clique em **Compartilhar tela** para transmitir, ou em **Assistir** para ver a tela de um amigo.
@@ -41,12 +41,12 @@ Cada sala comporta até **5 pessoas**.
 
 ## Download
 
-Na [página da última versão](https://github.com/muryarth/rooster-share-releases/releases/latest), baixe um destes arquivos:
+Na [página da última versão](https://github.com/muryarth/rooster-screen-share-releases/releases/latest), baixe um destes arquivos:
 
 | Arquivo | Para quem |
 |---|---|
-| `RoosterShare-Setup-X.Y.Z.exe` | **Recomendado.** Instala o app com atalho no menu Iniciar. |
-| `RoosterShare-Portable-X.Y.Z.exe` | Roda sem instalar. Bom para usar num pendrive. |
+| `Rooster-Setup-X.Y.Z.exe` | **Recomendado.** Instala o app com atalho no menu Iniciar. |
+| `Rooster-Portable-X.Y.Z.exe` | Roda sem instalar. Bom para usar num pendrive. |
 
 **Requisitos:** Windows 10 (versão 2004 ou mais recente) ou Windows 11, 64 bits.
 
@@ -62,7 +62,7 @@ Na [página da última versão](https://github.com/muryarth/rooster-share-releas
 
 <img src="docs/pix.png" width="160" align="left" alt="QR Code Pix" />
 
-**Está gostando do RoosterShare?**
+**Está gostando do Rooster?**
 
 O app é gratuito e feito com cuidado. Se quiser ajudar a mantê-lo, faça uma doação via Pix pelo QR Code ao lado. Ele também aparece dentro do app. Obrigado! 🐔💛
 
@@ -72,4 +72,4 @@ O app é gratuito e feito com cuidado. Se quiser ajudar a mantê-lo, faça uma d
 
 Copyright © 2026 Arthur Azevedo Mury. Todos os direitos reservados.
 
-Você pode baixar e usar o RoosterShare gratuitamente para uso pessoal e não comercial. Veja os termos completos em [LICENSE](LICENSE).
+Você pode baixar e usar o Rooster gratuitamente para uso pessoal e não comercial. Veja os termos completos em [LICENSE](LICENSE).
