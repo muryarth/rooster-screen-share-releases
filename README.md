@@ -19,7 +19,7 @@
 
 ## Por que o Rooster?
 
-- 🖥️ **Tela ou janela, na qualidade que você escolher.** De 480p a 1080p, a 30 ou 60 fps.
+- 🖥️ **Tela ou janela, na qualidade que você escolher.** De 480p a 1080p, a 30 ou 60 fps. Dá para trocar a tela ou a qualidade sem parar de transmitir.
 - 🔊 **Com o som do PC, sem eco.** O app transmite o som dos jogos, vídeos e músicas, mas deixa de fora o Discord. Seus amigos não ouvem a própria voz de volta.
 - 👀 **Todo mundo pode transmitir ao mesmo tempo.** Assista a várias telas lado a lado, fixe uma em destaque ou coloque em tela cheia.
 - 🔒 **Direto entre vocês.** O vídeo vai de um PC para o outro, sem passar por servidores de terceiros.
@@ -46,6 +46,7 @@ Cada sala comporta até **5 pessoas** (o anfitrião pode ajustar de 2 a 10).
 
 - O botão **⋯** ao lado de cada participante abre as opções: assistir, fixar, ocultar e, para o anfitrião, **remover da sala**.
 - Em cada transmissão você vê quantas pessoas estão assistindo e um aviso quando quem transmite desligou o som.
+- O controle **Telas**, acima das transmissões, reúne todas as telas abertas: fixe, oculte, mostre ou pare de assistir a cada uma.
 - Quem está em outra rede (ou no 4G) consegue entrar mesmo assim: quem tiver as portas liberadas serve de ponte para os demais.
 - Em **Salas recentes**, as salas abertas mostram **Ingressar**; as fechadas podem ser reabertas com o mesmo código em **Criar sala**.
 
@@ -85,6 +86,7 @@ Na [página da última versão](https://github.com/muryarth/rooster-screen-share
 - **Todos precisam estar na mesma versão** do app. Se alguém não conseguir entrar, peça para atualizar.
 - **Se quem criou a sala sair**, ela passa para outra pessoa e todo mundo continua conectado.
 - **Idioma:** troque entre português e inglês no rodapé da tela inicial ou em **Configurações → Geral**.
+- **Fechar a janela não encerra o app:** ele continua na bandeja do sistema (perto do relógio), e você segue na sala. Para sair de vez, clique com o botão direito no ícone e escolha **Sair**.
 - **`Ctrl +` e `Ctrl -`** aumentam ou diminuem o tamanho da interface.
 
 ## Apoie o projeto
