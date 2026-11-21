@@ -86,6 +86,7 @@ Na [página da última versão](https://github.com/muryarth/rooster-screen-share
 - **Todos precisam estar na mesma versão** do app. Se alguém não conseguir entrar, peça para atualizar.
 - **Se quem criou a sala sair**, ela passa para outra pessoa e todo mundo continua conectado.
 - **Idioma:** troque entre português e inglês no rodapé da tela inicial ou em **Configurações → Geral**.
+- **Atalhos de teclado:** em **Configurações → Atalhos**, defina combinações para iniciar/encerrar a transmissão e para ligar/desligar o som dela. Funcionam mesmo com o Rooster em segundo plano, como dentro de um jogo.
 - **Fechar a janela não encerra o app:** ele continua na bandeja do sistema (perto do relógio), e você segue na sala. Para sair de vez, clique com o botão direito no ícone e escolha **Sair**.
 - **`Ctrl +` e `Ctrl -`** aumentam ou diminuem o tamanho da interface.
 
