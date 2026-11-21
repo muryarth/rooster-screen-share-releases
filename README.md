@@ -24,7 +24,7 @@
 - 👀 **Todo mundo pode transmitir ao mesmo tempo.** Assista a várias telas lado a lado, fixe uma em destaque ou coloque em tela cheia.
 - 🔒 **Direto entre vocês.** O vídeo vai de um PC para o outro. Só passa por outro caminho quando não há ligação direta: por alguém da própria sala ou por um servidor que você mesmo configurar.
 - 🌐 **Conecta em redes difíceis.** O app tenta vários caminhos sozinho para duas pessoas se acharem, sem você configurar roteador nenhum.
-- 🔑 **Sala com senha, se quiser.** Defina uma senha ao criar a sala; o anfitrião também pode remover quem não deveria estar lá.
+- 🔑 **Toda sala tem senha.** O app já sorteia uma na primeira vez (você pode trocar por outra, de 4 a 16 caracteres); o anfitrião também pode remover quem não deveria estar lá.
 - ⚡ **Leve para quem transmite.** O vídeo é codificado pela placa de vídeo quando possível, gastando pouca CPU.
 - 🎞️ **Fluidez em primeiro lugar.** Se a internet ou o PC apertarem, a imagem mantém os quadros por segundo e cede na resolução, em vez de travar.
 - 🕘 **Salas recentes.** O app lembra as últimas salas em que você esteve e mostra quais estão abertas: um clique para voltar.
@@ -38,7 +38,7 @@
 
 1. **Baixe e instale** o Rooster.
 2. **Escolha seu nome** e, se quiser, um avatar ou uma foto.
-3. **Crie uma sala** (com senha, se quiser) e mande o código para seus amigos, ou **entre** com o código de alguém.
+3. **Crie uma sala** e mande o código e a senha para seus amigos, ou **entre** com o código de alguém.
 4. Clique em **Compartilhar tela** para transmitir, ou em **Assistir** para ver a tela de um amigo.
 
 Cada sala comporta até **5 pessoas** (o anfitrião pode ajustar de 2 a 10).
@@ -56,7 +56,7 @@ Cada sala comporta até **5 pessoas** (o anfitrião pode ajustar de 2 a 10).
 
 <p align="center">
   <img src="docs/screenshot-inicio.png" width="640" alt="Tela inicial: criar sala com senha ou entrar com um código" /><br />
-  <sub>Tela inicial: crie uma sala (com senha, se quiser) ou entre com um código.</sub>
+  <sub>Tela inicial: crie uma sala ou entre com um código.</sub>
 </p>
 
 <p align="center">
@@ -86,6 +86,7 @@ Na [página da última versão](https://github.com/muryarth/rooster-screen-share
 
 - **Amigo de outra cidade ou no 4G não conecta?** Em **Configurações → Rede** (a engrenagem no topo), ligue **Liberar portas automaticamente**. O app abre as portas necessárias só enquanto você estiver numa sala. Basta que uma pessoa da sala consiga liberar as portas para todo mundo se conectar.
 - **Ainda não conecta?** Em **Configurações → Rede → Servidor TURN próprio** dá para usar um servidor de retransmissão seu (há serviços com plano gratuito). A tela explica como conseguir um, tem um botão para testar e, se você quiser, empresta o servidor para quem estiver na sala com você. Basta um dos dois lados ter um configurado.
+- **Último recurso entre duas pessoas:** em **Configurações → Rede** há a opção **UDP hole punching por força bruta**, desligada por padrão. Ela procura uma passagem entre os dois roteadores abrindo portas temporárias e enviando sondagens, só depois de a senha da sala conferir, e precisa estar ligada em quem cria a sala e em quem entra. Um roteador ou antivírus pode confundir as sondagens com uma varredura de portas.
 - **Quer saber como a conexão foi feita?** O **Diagnóstico** (rodapé da tela inicial) mostra a situação da sua rede e por onde cada conexão passou. Se algo não funcionar, **Copiar diagnóstico** gera um texto para enviar a quem está ajudando.
 - **Mantenha o app atualizado.** Versões diferentes funcionam na mesma sala, mas as melhorias de conexão só valem entre quem já atualizou.
 - **Se quem criou a sala sair**, ela passa para outra pessoa e todo mundo continua conectado.
